@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  margin: 30px; }
+
+div {
+  margin: 30px; }
+
+label {
+  margin-right: 10px;
+  font-weight: bold; }
+
+input {
+  display: inline-block; }
+  input.timeBlock {
+    width: 100px;
+    text-align: center; }
+
+.total {
+  background: #ddd;
+  text-align: center;
+  padding: 5px; }
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px; }
+
+.center {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto; }
+
+.selection .select-label {
+  font-weight: bold;
+  padding-right: 10px; }
